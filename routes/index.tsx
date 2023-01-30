@@ -15,7 +15,7 @@ export default function Home() {
         />
         <p class="my-6">
           Welcome to `fresh`. Try updating this message in the ./routes/index.tsx
-          file, and refresh. Nhat update.
+          file, and refresh. Nhat update. test for OpenShift 4.
         </p>
         <Counter start={10} />
       </div>
